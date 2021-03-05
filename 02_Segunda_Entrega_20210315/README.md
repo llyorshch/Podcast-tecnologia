@@ -28,7 +28,9 @@ En 1987 creó [Systers](https://en.wikipedia.org/wiki/Systers), la primera lista
 
 ## Barbara Liskov
 
-Seguro que conoces [el principio de substitución](https://es.wikipedia.org/wiki/Principio_de_sustitución_de_Liskov) de [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov). Y si no lo conoces, deberías.
+![Barbara Liskov](images/Barbara_Liskov.jpg)
+
+Seguro que conoces [el principio de substitución](https://es.wikipedia.org/wiki/Principio_de_sustitución_de_Liskov) de [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov). Y si no lo conoces, deberías. 🦆
 
 Barbara Liskov desarrolló su carrera como investigadora principalmente en el MIT, donde sus trabajos fueron de gran influencia, llegando a recibir el Premio Turing y la Medalla John Von Neumann. Investigó en campos tan avanzados como la programación distribuida o las bases de datos orientadas a objetos.
 
