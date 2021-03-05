@@ -60,7 +60,9 @@ También participó activamente en la creación de COBOL, ya que éste se basó 
 
 [Margaret Hamilton](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica)) es una investigadora científica que desarrolló la mayor parte de su carrera en la NASA, colaborando en las misiones Apolo que llevaron al ser humano a la luna.
 
-Su trabajo fue crucial para alcanzar los objetivos en las misiones e incluso para salvar vidas mediante la gestión de errores que se podían producir durante las increíblemente impredecibles condiciones de vuelo a las que se enfrentaban. Por estos logros recibió el mayor reconocimiento civil que otorga el Presidente de Estados Unidos de América: La Medalla Presidencial de la Libertad.
+Su trabajo fue crucial para alcanzar los objetivos en las misiones. También ayudó a salvar vidas mediante la gestión de los errores de software que se podían producir durante las misiones. Las increíblemente impredecibles condiciones de vuelo a las que se enfrentaban los astronautas ponían al límite el hardware y el software de las aeronaves. Se le atribuye a Hamilton [la creación de los fundamentos del software ultra-confiable](https://www.nasa.gov/home/hqnews/2003/sep/HQ_03281_Hamilton_Honor.html).
+
+Por estos logros recibió el mayor reconocimiento civil que otorga el Presidente de Estados Unidos de América: La Medalla Presidencial de la Libertad.
 
 ## Radia Perlman
 
